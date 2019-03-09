@@ -26,7 +26,7 @@ Tryb renderowania świateł:\nKiedy wyłączone - pogarsza znacznie wygląd gry.
 V-SYNC
 POŁĄCZ
 USTAWIENIA JAKOŚCI
-Zmień preferencje cieni. Ustawienie tych suwaków przy niższych wartościach mogą zwiększyć płynność gry.
+Zmień preferencje cieni. Ustawienie tych suwaków przy niższych wartościach mogą zwiększyć płynność gry. 
 MENU GŁÓWNE
 USTAWIENIA RENDEROWANIA ŚWIATEŁ
 ROZMYCIE W RUCHU
@@ -42,15 +42,15 @@ WYSZUKIWARKA SERWERÓW
 OK
 ZNAJDŹ GRĘ
 2. Bronie
-Używamy Discorda jako forum. Instalacja niewymagana.\n(kliknij na logo, aby dołączyć)
+Używamy Discorda jako forum. Instalacja niewymagana.\n(kliknij na logo poniżej, aby dołączyć)
 Domyślnie serwer uruchomi się w sieci lokalnej.\nTwoi znajomi będą potrzebowali Twojego IP, aby dołączyć.\nJeżeli chcesz stworzyć serwer publiczny, otwórz LocalAdmin.exe i postępuj zgodnie z instrukcjami.\nJeżeli masz wątpliwości, zapytaj naszą pomoc techniczą (link w menu głównym)
 1. Podstawy
 Prezentowana gra to otwarta beta.\nMożesz doświadczyć wielu błędów.\nAktualny stan nie świadczy o wersji finalnej.
 4. (więcej poradników później)
 POŁĄCZ BEZPOŚREDNIO
 POMOC TECHNICZNA / FORUM
-GŁOŚNOŚC DŹWIĘKU
-Wpisz IP adres wybranego hosta.
+GŁOŚNOŚĆ DŹWIĘKU
+Wpisz adres IP wybranego hosta.
 POBIERANIE LISTY
 BRAK AKTYWNYCH SERWERÓW
 WCIŚNIJ ESC ABY ANULOWAĆ/ZAMKNĄĆ
@@ -59,3 +59,4 @@ MAKSYMALNA ILOŚĆ KRWI
 Limitowane FPS
 Limitowane FPS nie działa, kiedy jest V-SYNC!
 Przywróć Domyślne
+Używamy sekcji "Dyskusje" na Steam, jako forum. (Kliknij na logo poniżej, by otworzyć)
