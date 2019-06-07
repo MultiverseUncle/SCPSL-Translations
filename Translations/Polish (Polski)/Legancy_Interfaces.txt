@@ -15,3 +15,4 @@ UŻYJ PRZEJŚCIA
 UMARŁEŚ
 Zostałeś zabity przez
 jako
+Pasywny
